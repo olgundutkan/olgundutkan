@@ -1,5 +1,13 @@
 ### Hi! I'm Olgun DUTKAN 👋
 
+I'm a Front End Developer based in Turkey. I'm a coding passionate focused on **JavaScript**, specifically **React**. Interested in design, tech and **OpenSource** ❤️
+
+<p>
+  <a href="https://twitter.com/intent/follow?screen_name=olgundutkan">
+    <img src="https://user-images.githubusercontent.com/7629661/87821427-202e0280-c870-11ea-9e38-8c7c74856753.png" width="144" alt="Follow @olgundutkan on Twitter" title="Follow @olgundutkan on Twitter">
+  </a>
+</p>
+
 <!--
 **olgundutkan/olgundutkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
