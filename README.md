@@ -1,6 +1,6 @@
 ### Hi! I'm Olgun DUTKAN 👋
 
-I'm a **Software Developer** based in Turkey. I'm a coding passionate focused on **JavaScript**, specifically **React**. Interested in design, tech and **OpenSource** ❤️
+I'm a **Software Developer** based in Turkey. I'm a coding passionate focused on **JavaScript** ❤️
 
 #### Languages:
 
